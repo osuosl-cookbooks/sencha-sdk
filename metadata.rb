@@ -1,0 +1,17 @@
+name             'sencha-sdk'
+maintainer       'Oregon State University'
+maintainer_email 'systems@osuosl.org'
+license          'Apache 2.0'
+description      'Installs/Configures the Sencha SDK platform and related tools'
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version          '0.1.0'
+
+depends          'apt'
+depends          'nodejs'
+depends          'npm'
+depends          'java'
+depends          'ruby'
+depends          'git'
+depends          'ant'
+depends          'android-sdk'
+depends          'magic_shell'

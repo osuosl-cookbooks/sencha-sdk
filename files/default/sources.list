@@ -1,0 +1,9 @@
+# ubuntu_osuosl_backports
+deb http://ubuntu.osuosl.org/ubuntu/ trusty-backports main restricted universe multiverse
+# ubuntu_osuosl
+deb http://ubuntu.osuosl.org/ubuntu/ trusty main restricted universe multiverse
+# ubuntu_osuosl_security
+deb http://ubuntu.osuosl.org/ubuntu/ trusty-security main restricted universe multiverse
+# ubuntu_osuosl_updates
+deb http://ubuntu.osuosl.org/ubuntu/ trusty-updates main restricted universe multiverse
+
